@@ -1,0 +1,7 @@
+=== MOTOR ANALYSIS REPORT: Motor_2 ===
+Fuel mass: 0.044 kg
+Burn time: 5.60 s
+Max thrust: 16.87 N
+Average thrust: 4.63 N
+Time to max thrust: 1.00 s
+Total impulse: 25.90 Ns
